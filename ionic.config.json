@@ -1,5 +1,7 @@
 {
   "name": "myWeaterApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
